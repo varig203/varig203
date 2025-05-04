@@ -51,7 +51,7 @@ struct DeveloperProfile {
     };
 
     // 2025 personal goals - keeping it ambitious
-    std::string goals2025 = "Build a custom OS from scratch and contribute to open-source.";
+    std::string goals2025 = "Learn Linux Kernel Development.";
 
     // What I do for fun outside of work
     std::vector<std::string> hobbies = {
