@@ -18,12 +18,12 @@
 struct DeveloperProfile {
     std::string name = "Daniel T-B";
     std::string location = "British Columbia, Canada";
-    std::string currentFocus = "Operating Systems Development & Robotics";
+    std::string currentFocus = "Operating Systems Development, Robotics, & Game Development";
 
     // Education background - including current school status
     std::vector<std::string> education = {
         "Self-Taught C/C++ Developer",
-        "Senior High School Student"
+        "First Year BCIT student"
     };
 
     // Areas of interest - what I'm passionate about
@@ -32,7 +32,8 @@ struct DeveloperProfile {
         "Embedded Development",
         "Robotics",
         "Low-Level Programming",
-        "Linux Systems"
+        "Linux Systems",
+        "Game Development"
     };
 
     // My technical experience so far
@@ -47,15 +48,16 @@ struct DeveloperProfile {
     std::vector<std::string> currentlyLearning = {
         "OS Development",
         "Kernel Development",
-        "Embedded Systems Development"
+        "Game Engine Development",
+        "Graphics Programming"
     };
 
-    // 2025 personal goals - keeping it ambitious
-    std::string goals2025 = "Learn Linux Kernel Development.";
+    // 2025 personal goals
+    std::string goals2025 = "Improve my skills in C++.";
 
     // What I do for fun outside of work
     std::vector<std::string> hobbies = {
-        "Gaming (modding Minecraft, Cyberpunk, GTA V)",
+        "Gaming (modding Minecraft, Cyberpunk, Satisfactory)",
         "Reverse Engineering",
         "Tinkering with Hardware",
         "Self-Hosting Servers"
@@ -69,8 +71,6 @@ struct DeveloperProfile {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" width="45" height="45" />
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_the_UEFI_Forum.svg" alt="uefi" width="45" height="45"/> -->
-<!-- <img src="assets/icons/uefi.svg" alt="uefi" width="45" height="45"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
