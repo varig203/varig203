@@ -1,5 +1,7 @@
 <div align="center">
 
+> ### ⚠️ GitHub Archived. Migrated to [Codeberg](https://codeberg.org/DanielTB)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Hello%20World&textBg=false&reversal=true&section=header&fontSize=70&desc=I'm%20Daniel!)
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-treiber-bobylev-1a99bb354)
